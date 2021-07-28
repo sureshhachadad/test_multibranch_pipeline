@@ -18,5 +18,4 @@ node {
     println CONNECTED_APP_CONSUMER_KEY
     println BUILD_NUMBER
     def toolbelt = tool 'toolbelt'
-
 }
